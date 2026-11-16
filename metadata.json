@@ -1,0 +1,6 @@
+{
+  "name": "Kondangan — Platform Undangan Pernikahan Digital",
+  "description": "Buat undangan pernikahan digital yang hangat, modern, dan bernuansa Nusantara dalam hitungan menit. Lengkap dengan link personal tamu, RSVP otomatis, dan kirim via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
